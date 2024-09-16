@@ -1,0 +1,12 @@
+/bitrix
+/upload
+/test
+/*.txt
+/*.html
+~*.php
+*.log
+*.xml
+*.csv
+.DS_Store
+._.DS_Store
+.idea
